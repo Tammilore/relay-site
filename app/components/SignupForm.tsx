@@ -60,7 +60,7 @@ const SignupForm: React.FC = () => {
       )}
 
       <p className="text-xs text-gray-500">
-        Don't want to wait?{' '}
+      Don&#39;t want to wait?{' '}
         <a href="https://github.com/Tammilore/relay" className="text-gray-900 underline">
           Load an unpacked
         </a>{' '}
