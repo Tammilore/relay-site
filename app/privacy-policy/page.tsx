@@ -39,7 +39,7 @@ const PrivacyPolicyPage = () => {
         <h3>Contact Us</h3>
         <p>
           If you have questions about this Privacy Policy, please contact us at{' '}
-          <a href="mailto:hello@tryrelay.co">hello@tryrelay.co</a>.
+          <a href="mailto:dev@tryrelay.co">dev@tryrelay.co</a>.
         </p>
       </div>
     </>
