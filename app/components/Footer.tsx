@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
               <Link href="https://github.com/Relay/relay" className="text-[#141414]">
               Self-Host
               </Link>
-              <Link href="#" className="text-[#141414]">
+              <Link href="/privacy-policy" className="text-[#141414]">
               Privacy Policy
               </Link>
               <Link href="#" className="text-[#141414]">
