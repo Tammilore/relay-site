@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
               <Link href="https://tryrelay.canny.io/changelog" className="text-[#141414]">
               Changelog
               </Link>
-              <Link href="https://github.com/Relay/relay" className="text-[#141414]">
+              <Link href="https://github.com/tryrelay/relay" className="text-[#141414]">
                Contribute
               </Link>
             </ul>
@@ -36,7 +36,7 @@ const Footer: React.FC = () => {
               <Link href="#" className="text-[#141414]">
               Join Community
               </Link>
-              <Link href="https://github.com/Relay/relay" className="text-[#141414]">
+              <Link href="https://github.com/tryrelay/relay" className="text-[#141414]">
               Self-Host
               </Link>
               <Link href="/privacy-policy" className="text-[#141414]">

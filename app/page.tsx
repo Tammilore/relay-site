@@ -24,7 +24,7 @@ const HomePage = () => {
         </em>{' '}
         open-source
         <div className="inline-flex border rounded-md shadow-[0_1px_8px_0_rgba(0,0,0,0.04)] border-gray-200 scale-[0.8] md:scale-100 ml-2">
-          <Link href="https://github.com/Relay/relay" className="px-2 py-1.5 border-r shadow-[inset_0_-2px_5px_0_rgba(0,0,0,0.07)] bg-gray-100 rounded-l-md border-gray-200 flex items-center justify-center">
+          <Link href="https://github.com/tryrelay/relay" className="px-2 py-1.5 border-r shadow-[inset_0_-2px_5px_0_rgba(0,0,0,0.07)] bg-gray-100 rounded-l-md border-gray-200 flex items-center justify-center">
             <Image
               src="/icon-github.svg"
               alt="GitHub icon"
