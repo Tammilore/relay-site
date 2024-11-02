@@ -5,6 +5,24 @@ import Footer from './components/Footer';
 export const metadata = {
   title: "Relay - Open Source HTTP Interceptor",
   description: "Capture, modify and run API requests directly in your browser.",
+  openGraph: {
+    title: 'Relay - Open Source HTTP Interceptor',
+    description: 'Capture, modify and run API requests directly in your browser.',
+    url: 'https://tryrelay.co',
+    images: [
+      {
+        url: '/og-image-two.png', 
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Relay - Open Source HTTP Interceptor',
+    description: 'Capture, modify and run API requests directly in your browser.',
+    images: ['/og-image-one.png'],
+  },
 };
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
