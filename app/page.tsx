@@ -14,16 +14,10 @@ const HomePage = () => {
           height={32}
           className="inline w-8 md:w-auto"
         />{' '}
-        is a{' '}
-        <em className="relative">
-          <span className="border-b-2 border-gray-400 border-dotted">fully</span>
-          {/* <sup>*</sup>
-          <span className="absolute w-40 md:w-64 text-xs text-left text-gray-400 left-2 -top-8 md:left-16 md:-top-7 -rotate-3">
-            <sup>*</sup>your finances are secure
-          </span> */}
-        </em>{' '}
+        is an{' '}
+        
         open-source
-        <div className="inline-flex border rounded-md shadow-[0_1px_8px_0_rgba(0,0,0,0.04)] border-gray-200 scale-[0.8] md:scale-100 ml-2">
+        <div className="hidden md:inline-flex border rounded-md shadow-[0_1px_8px_0_rgba(0,0,0,0.04)] border-gray-200 scale-[0.8] md:scale-100 ml-2">
           <Link href="https://github.com/tryrelay/relay" className="px-2 py-1.5 border-r shadow-[inset_0_-2px_5px_0_rgba(0,0,0,0.07)] bg-gray-100 rounded-l-md border-gray-200 flex items-center justify-center">
             <Image
               src="/icon-github.svg"
